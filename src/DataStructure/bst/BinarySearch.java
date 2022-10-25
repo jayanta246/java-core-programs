@@ -1,4 +1,4 @@
-package DataStructure;
+package DataStructure.bst;
 
 public class BinarySearch {
 
